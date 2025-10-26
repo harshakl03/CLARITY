@@ -1,29 +1,21 @@
 /.ipynb_checkpoints
 /CLARITY.env
 
-/Project/src/.ipynb_checkpoints
+**/.env
 
-/Project/src/data/.ipynb_checkpoints
-/Project/src/data/__pycache__
-
-/Project/src/models/.ipynb_checkpoints
-/Project/src/models/__pycache__
-
-/Project/src/trainer/.ipynb_checkpoints
-/Project/src/trainer/__pycache__
-
-/Project/notebooks/.ipynb_checkpoints
+**/.ipynb_checkpoints/
+**/__pycache__/
 
 /Dataset
 
 /Project/models
 /Project/others
 
-/Project/models/.ipynb_checkpoints
-/Project/models/saved_models/.ipynb_checkpoints
+**/results/
 
-/Project/.ipynb_checkpoints
+**/outputs/
 
-/Project/results/.ipynb_checkpoints
-/Project/results/Enhanced_Densenet121/.ipynb_checkpoints
+**/saved_model/
 
+**/outputs_resnet/
+**/outputs_best_model/
