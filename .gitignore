@@ -19,3 +19,15 @@
 
 **/outputs_resnet/
 **/outputs_best_model/
+**/outputs_best_model_resnet152/
+**/outputs_resnet152_15epochs/
+
+Figure1_Distribution_Samples.png
+
+notebook/triple_bar_comparison.png
+notebook/triple_bar_dark_theme.png
+
+**/heatmap/
+**/xai_medical_insights/
+**/xai_outputs/
+**/xai_outputs_enhanced/
